@@ -3,6 +3,8 @@
 A real-time location tracking web application built using **Node.js**, **Express**, **Socket.io**, and **Leaflet.js**.  
 This app allows multiple users to share their live location and see each other on an interactive map in real time.
 
+<img width="1710" height="1075" alt="Screenshot 2026-02-23 at 00 57 11" src="https://github.com/user-attachments/assets/1bf7c9a0-ef02-4f7c-ac70-b76555eefa22" />
+
 ---
 
 ## Features
